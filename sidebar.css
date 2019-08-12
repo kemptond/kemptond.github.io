@@ -16,7 +16,7 @@
 }
 
 .sidenav a {
-  padding: 0px 8px 8px 32px;
+  padding: 0px 0px 8px 32px;
   text-decoration: none;
   font-size: 25px;
   color: #818181;
@@ -37,7 +37,7 @@
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px; width: 25%}
-  .sidenav a {font-size: 18px;}
-  #main{ padding-left: 25% }
+  .sidenav {padding-top: 15px; width: 50%}
+  .sidenav a {font-size: 18px; padding: 0px 0px 8px 2px;}
+  #main{ padding-left: 50% }
 }
