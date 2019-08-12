@@ -1,7 +1,7 @@
 document.write('\
 <div id="mySidenav" class="sidenav" style="top: 112px;">\
   <a href="index.html">Home</a>\
-  <a href="#">Research</a>\
+  <a href="research.html">Research</a>\
   <a href="#">Math 120</a>\
   <a href="#">Math 341</a>\
 </div>\
