@@ -20,15 +20,19 @@ header {
 }
 
 .container{
-  background-color: #e1eded;
+  background-color: #c4cfcf;
 }
 
 tr:nth-child(even) {
-  background-color: #c4cfcf
+  background-color: #a0b0b0
 }
 
 tr:nth-child(odd) {
-  background-color: #a0b0b0
+  background-color: #c4cfcf
+}
+
+#table_head {
+  background-color: #667878
 }
 
 .dropdown-menu {
@@ -43,6 +47,9 @@ tr:nth-child(odd) {
 th, td {
   text-align: left;
   padding: 16px;
+  border-left: 1px solid #728585;
+  border-right: 1px solid #728585;
+  border-bottom: 1px solid #728585
 }
 
 ul#menu li{
