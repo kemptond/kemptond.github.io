@@ -21,13 +21,10 @@
 <body>
   <font face="palatino">
   <script src="escapedHeader.txt"> </script>
-
+  <script src="escapedSidebar.txt"></script>
   <div id="main">
     <div class = "row">
-      <div class="col-sm-3">
-        <script src="escapedSidebar.txt"></script>
-      </div>
-      <div class="col-sm-6">
+      <div class="col-sm-9">
         <br>
         <div id=MY_ID style="padding-left:2em">
           <h3 style="text-align:center;">Hello!</h3>
@@ -47,15 +44,17 @@
 
    </div>
 
-<script>
-function openNav() {
-  document.getElementById("mySidenav").style.width = "50%";
-}
+  <script>
+   function openNav() {
+     document.getElementById("mySidenav").style.width = "250px";
+     document.getElementById("main").style.marginLeft = "250px";
+   }
 
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-}
-</script>
+   function closeNav() {
+     document.getElementById("mySidenav").style.width = "0";
+     document.getElementById("main").style.marginLeft= "0";
+   }
+   </script>
 
 </body>
 </html>

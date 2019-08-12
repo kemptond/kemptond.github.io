@@ -1,5 +1,6 @@
 document.write('\
-<div class="sidenav">\
+<div id="mySidenav" class="sidenav">\
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>\
     <a href="index.html">Home</a>\
     <a href="research.html">Research</a>\
     <a href="classTemplate.html">Sample Class</a>\
