@@ -1,0 +1,15 @@
+document.write('\
+<hr/>\
+<footer class="page-footer">\
+  <ul id="menu">\
+    <li>\
+      <a href="#First_Link">First Link</a>\
+    </li>\
+    <li>\
+      <a href="#Second_Link">Second Link</a>\
+    </li>\
+    <li>\
+      <a href="#Third_Link">Third Link</a>\
+    </li>\
+</footer>\
+')

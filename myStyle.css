@@ -1,0 +1,72 @@
+/* myStyle.css */
+body{
+  background-color: #c4cfcf
+}
+
+header {
+  background-color: #d8e8e8;
+  padding: 15px;
+  text-align: center;
+  font-size: 35px;
+  color: black;
+}
+
+.navbar{
+  background-color: #343a40
+}
+
+.nav-item{
+    padding-right: 30px
+}
+
+.container{
+  background-color: #e1eded;
+}
+
+tr:nth-child(even) {
+  background-color: #faf4f0
+}
+
+tr:nth-child(odd) {
+  background-color: #ede8e4
+}
+
+.dropdown-menu {
+  background-color: #343a40;
+  text-align:center;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+ul#menu li{
+  display: inline;
+  padding-left: 0px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+
+footer {
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+hr {
+  padding-bottom: 15px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

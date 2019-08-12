@@ -1,0 +1,6 @@
+document.write('\
+  <header>\
+    <h2><a href="/Home.html" style="text-decoration:none; color:black;"> Rob Thompson </a></h2>\
+    <h4> Assistant Professor of Mathematics </h4>\
+</header>\
+');
