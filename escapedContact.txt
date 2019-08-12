@@ -1,5 +1,5 @@
 document.write('\
-<div id=Contact>\
+<div id="Contact">\
   <br>\
   <h4>Contact Information</h4>\
   <p> Email: rthompson@carleton.edu  <br/>\

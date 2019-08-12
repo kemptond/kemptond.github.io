@@ -11,6 +11,8 @@ header {
   color: black;
 }
 
+
+
 .navbar{
   background-color: #343a40
 }
@@ -33,6 +35,20 @@ tr:nth-child(odd) {
 
 #table_head {
   background-color: #667878
+}
+
+#sidebar {
+  background-color: #667878;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+  height:100%;
+  min-height: 100vh;
+}
+
+#sidebar a {
+  color: black;
 }
 
 .dropdown-menu {

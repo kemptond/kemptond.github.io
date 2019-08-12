@@ -1,7 +1,7 @@
 document.write('\
-<div id="mySidenav" class="sidenav" style="top: 112px;">\
-  <a href="index.html">Home</a>\
-  <a href="research.html">Research</a>\
-  <a href="classTemplate.html">Sample Class</a>\
+<div class="sidenav">\
+    <a href="index.html">Home</a>\
+    <a href="research.html">Research</a>\
+    <a href="classTemplate.html">Sample Class</a>\
 </div>\
 ');
