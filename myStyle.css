@@ -34,7 +34,8 @@ tr:nth-child(odd) {
 }
 
 #table_head {
-  background-color: #667878
+  background-color: #667878;
+  border-top: 2px solid #728585;
 }
 
 #sidebar {
@@ -60,13 +61,15 @@ tr:nth-child(odd) {
   color: white;
 }
 
+table {
+  border-collapse: collapse;
+  padding: 0px;
+}
+
 th, td {
   text-align: left;
-  padding: 16px;
-  border-left: 1px solid #728585;
-  border-right: 1px solid #728585;
-  border-bottom: 1px solid #728585;
-  border-top: 30px solid #728585;
+  padding:0px;
+  border: 2px solid #728585 !important;
 }
 
 ul#menu li{
