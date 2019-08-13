@@ -85,9 +85,7 @@ footer {
   padding-bottom: 15px;
 }
 
-hr {
-  padding-bottom: 15px;
-}
+hr { margin: 10px 0 10px 0; }
 
 img {
   max-width: 100%;

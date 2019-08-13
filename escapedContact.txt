@@ -9,7 +9,7 @@ document.write('\
     <li>Monday: 3-4:30</li>\
     <li>Tuesday: 2-4</li>\
     <li>Wednesday: 3-4:30</li>\
-    <li>Thursday: by appoinment</li>\
+    <li>Thursday: by appointment</li>\
     <li>Friday: 9:40-10:40</li>\
   </ul>\
 </div>\
