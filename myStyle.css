@@ -65,7 +65,8 @@ th, td {
   padding: 16px;
   border-left: 1px solid #728585;
   border-right: 1px solid #728585;
-  border-bottom: 1px solid #728585
+  border-bottom: 1px solid #728585;
+  border-top: 30px solid #728585;
 }
 
 ul#menu li{
