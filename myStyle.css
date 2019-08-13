@@ -1,24 +1,14 @@
 /* myStyle.css */
-body{
+body {
   background-color: #c4cfcf
 }
 
 header {
-  background-color: #d8e8e8;
+  background-color: #adc9c9;
   padding: 15px;
   text-align: center;
   font-size: 35px;
   color: black;
-}
-
-
-
-.navbar{
-  background-color: #343a40
-}
-
-.nav-item{
-    padding-right: 30px
 }
 
 .container{
@@ -36,29 +26,6 @@ tr:nth-child(odd) {
 #table_head {
   background-color: #667878;
   border-top: 2px solid #728585;
-}
-
-#sidebar {
-  background-color: #667878;
-  padding: 10px;
-  text-align: center;
-  font-size: 20px;
-  color: black;
-  height:100%;
-  min-height: 100vh;
-}
-
-#sidebar a {
-  color: black;
-}
-
-.dropdown-menu {
-  background-color: #343a40;
-  text-align:center;
-}
-
-.dropdown-item {
-  color: white;
 }
 
 table {
