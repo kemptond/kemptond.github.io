@@ -39,8 +39,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-  .sidenav { background-color: aaa; }
   .sidenav {padding-top: 15px; width: 0}
-  .sidenav a {font-size: 18px;}
+  .sidenav a {font-size: 24px;}
   #main {margin-left: 0}
 }
