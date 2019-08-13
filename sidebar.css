@@ -38,7 +38,8 @@
   margin-left: 250px
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 1000px) {
+  .sidenav { background-color: aaa; }
   .sidenav {padding-top: 15px; width: 0}
   .sidenav a {font-size: 18px;}
   #main {margin-left: 0}
