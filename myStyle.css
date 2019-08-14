@@ -1,13 +1,14 @@
 /* myStyle.css */
 body {
-  background-color: #c4cfcf
+  background-color: #c4cfcf;
+  font-size: 18px;
 }
 
 header {
   background-color: #adc9c9;
   padding: 15px;
   text-align: center;
-  font-size: 35px;
+  font-size: 28px;
   color: black;
 }
 
