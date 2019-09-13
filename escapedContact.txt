@@ -11,6 +11,5 @@ document.write('\
     <li>Thursday: by appointment</li>\
     <li>Friday: 9:40-10:40</li>\
   </ul>\
-  <img src="rthompson.jpg" width="250px" align="left" style="margin: 0px 0px 10px 10px" class="rounded border border-dark">\
 </div>\
 ')

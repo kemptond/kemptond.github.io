@@ -12,6 +12,22 @@ header {
   color: black;
 }
 
+.navbar{
+  background-color: #8eadad;
+}
+
+.nav-item{
+    padding-right: 30px;
+}
+
+nav .navbar-nav li a{
+  color: black !important;
+}
+
+nav .navbar-nav li a:hover{
+  color: white !important;
+}
+
 .container{
   background-color: #c4cfcf;
 }

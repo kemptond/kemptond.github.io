@@ -1,7 +1,19 @@
 document.write('\
-  <header class="rounded" style="border: 1px solid #000;">\
+  <header style="border: 1px solid #000;">\
     <h2><a href="index.html" style="text-decoration:none; color:black;"> Rob Thompson </a></h2>\
     <h4> Assistant Professor of Mathematics </h4>\
 </header>\
-<a style="font-size:30px;cursor:pointer; text-align:left;" onclick="openNav()">&#9776;</a>\
+<nav class="rounded-bottom navbar navbar-expand-sm navbar-dark" id="HeadNavbar" style="border: 1px solid #000">\
+  <ul class="nav navbar-nav">\
+    <li class="nav-item active">\
+      <a class="nav-link" href="index.html">About</a>\
+    </li>\
+    <li class="nav-item active">\
+      <a class="nav-link" href="research.html">Research</a>\
+    </li>\
+    <li class="nav-item active">\
+      <a class="nav-link" href="classTemplate.html">Sample Class</a>\
+    </li>\
+  </ul>\
+</nav>\
 ');
